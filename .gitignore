@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+features/
+data/
+*.wav
+.ipynb_checkpoints/

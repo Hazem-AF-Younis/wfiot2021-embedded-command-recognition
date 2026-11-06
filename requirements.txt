@@ -1,0 +1,7 @@
+# Training (desktop)
+tensorflow>=2.4
+librosa
+python_speech_features
+numpy
+# On the Raspberry Pi instead use:
+#   tflite-runtime  sounddevice  scipy  python_speech_features  numpy  RPi.GPIO

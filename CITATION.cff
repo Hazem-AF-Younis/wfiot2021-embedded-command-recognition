@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Challenges in real-time-embedded IoT command recognition"
+authors:
+  - family-names: Younis
+    given-names: Hazem
+    affiliation: "The University of Texas at Dallas"
+  - family-names: Hansen
+    given-names: John H. L.
+    affiliation: "The University of Texas at Dallas"
+preferred-citation:
+  type: conference-paper
+  title: "Challenges in real-time-embedded IoT command recognition"
+  authors:
+    - family-names: Younis
+      given-names: Hazem
+    - family-names: Hansen
+      given-names: John H. L.
+  collection-title: "2021 IEEE 7th World Forum on Internet of Things (WF-IoT)"
+  year: 2021
+  start: 848
+  end: 851
+  doi: "10.1109/WF-IoT51360.2021.9595903"
